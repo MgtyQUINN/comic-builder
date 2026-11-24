@@ -74,4 +74,4 @@ people's characters, logos or panels.
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Use it, change it and share it – also commercially – as long as you credit
 "comic-builder by Südow" with a link to this repository. The fonts keep their own
-SIL Open Font License (see `fonts/`). Comics you make with the skill are yours.
+SIL Open Font License (see `fonts/`). Comics you make with the skill are yours. See `NOTICE` for the credit line.
