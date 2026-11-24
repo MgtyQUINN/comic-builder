@@ -1,0 +1,175 @@
+{
+ "title": "THE LIGHTHOUSE",
+ "subtitle": "A short comic",
+ "author": "Your Name",
+ "language": "en",
+ "format": "us",
+ "style": "black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper",
+ "print_style": "bw-ink",
+ "uppercase": true,
+ "page_numbers": true,
+ "characters": [
+  {
+   "name": "Ada",
+   "traits": "woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck"
+  },
+  {
+   "name": "Leo",
+   "traits": "boy of about ten, curly dark hair, oversized red raincoat, carries a small torch in his LEFT hand"
+  }
+ ],
+ "cover": {
+  "title_position": "top",
+  "title_color": "#ffd23f",
+  "prompt": "Portrait comic book cover illustration: @Ada (woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck) holds a lantern high at the top of the lighthouse in a storm, dark sky in the upper third for the title. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+ },
+ "pages": [
+  {
+   "rows": [
+    {
+     "h": 1.2,
+     "panels": [
+      {
+       "id": "1.1",
+       "text": [
+        {
+         "type": "caption",
+         "text": "The last night of the lighthouse.",
+         "x": 0,
+         "y": 0.0,
+         "w": 31.5
+        }
+       ],
+       "prompt": "Establishing wide shot, the lighthouse on its rock under a black storm sky, a single lit window. Setting: a small rocky island in a grey northern sea, a white lighthouse with a red top, wind and spray. Keep the upper left corner calm for a caption. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+      }
+     ]
+    },
+    {
+     "h": 1,
+     "panels": [
+      {
+       "id": "1.2",
+       "text": [
+        {
+         "type": "caption",
+         "text": "Ada had climbed these stairs every night for forty years.",
+         "x": 0,
+         "y": 0.0,
+         "w": 62.0
+        }
+       ],
+       "prompt": "Medium shot, @Ada climbs the spiral stairs with a storm lantern, breathing hard. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. Keep the upper left corner calm for a caption. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+      },
+      {
+       "id": "1.3",
+       "text": [
+        {
+         "type": "sfx",
+         "text": "CLUNK",
+         "size": 14,
+         "rot": -8,
+         "x": 60,
+         "y": 70
+        }
+       ],
+       "prompt": "Close-up, @Ada's hand turns the brass key in the lamp mechanism. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+      }
+     ]
+    },
+    {
+     "h": 1.1,
+     "panels": [
+      {
+       "id": "1.4",
+       "text": [
+        {
+         "type": "speech",
+         "text": "Come on, old girl. Not tonight.",
+         "tail": [
+          28,
+          30.2
+         ],
+         "x": 5.0,
+         "y": 3.9,
+         "w": 24.8
+        }
+       ],
+       "prompt": "Wide shot, @Ada at the dark lamp, the great lens does not light up, rain lashing the glass. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. Leave calm empty space in the upper part of the frame for speech balloons. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layout": "six-grid",
+   "panels": [
+    {
+     "id": "2.1",
+     "text": [
+      {
+       "type": "shout",
+       "text": "Light!",
+       "tail": [
+        50,
+        25.5
+       ],
+       "x": 38.9,
+       "y": 3.9,
+       "w": 22.2
+      }
+     ],
+     "prompt": "Medium close-up, @Ada bangs the side of the mechanism with her palm. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. Leave calm empty space in the upper part of the frame for speech balloons. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    },
+    {
+     "id": "2.2",
+     "text": [],
+     "prompt": "Insert, the dead lens, black glass, a storm outside. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    },
+    {
+     "id": "2.3",
+     "text": [],
+     "prompt": "Point of view through the rain, far out on the black water, a tiny torch light blinking. Setting: a small wooden rowing boat on rough dark water at night. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    },
+    {
+     "id": "2.4",
+     "text": [
+      {
+       "type": "thought",
+       "text": "Someone is out there.",
+       "tail": [
+        50,
+        29.9
+       ],
+       "x": 29.3,
+       "y": 3.9,
+       "w": 41.4
+      }
+     ],
+     "prompt": "Close-up, @Ada's eyes widen as she sees the blinking light. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. Leave calm empty space in the upper part of the frame for speech balloons. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    },
+    {
+     "id": "2.5",
+     "text": [
+      {
+       "type": "speech",
+       "text": "Hello? HELLO?",
+       "tail": [
+        50,
+        25.5
+       ],
+       "x": 33.7,
+       "y": 3.9,
+       "w": 32.6
+      }
+     ],
+     "prompt": "Medium shot, @Leo in a small rowing boat on rough water, holding up his torch, terrified. Setting: a small wooden rowing boat on rough dark water at night. @Leo: boy of about ten, curly dark hair, oversized red raincoat, carries a small torch in his LEFT hand. Leave calm empty space in the upper part of the frame for speech balloons. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    },
+    {
+     "id": "2.6",
+     "text": [],
+     "prompt": "Close-up, @Ada pulls the brass key from around her neck, decided. Setting: the lamp room at the top of an old lighthouse, a huge glass lens, iron railings, storm outside. @Ada: woman in her sixties, short white hair, weathered face, thick navy wool sweater, yellow oilskin coat, rubber boots, a brass key on a cord around her neck. black and white ink illustration in the tradition of classic newspaper adventure strips, confident brush and crow-quill pen inking, feathered shadows, crosshatching, bold spot blacks, realistic anatomy, no grey tones, white paper. No text, no letters, no numbers, no speech bubbles, no captions, no logos, no panel borders."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+page   1  panel 1.1        146×  83 mm  ratio 1.75  → make 16:9  
+page   1  panel 1.2         72×  70 mm  ratio 1.03  → make 1:1   
+page   1  panel 1.3         72×  70 mm  ratio 1.03  → make 1:1   
+page   1  panel 1.4        146×  76 mm  ratio 1.91  → make 16:9  
+page   2  panel 2.1         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]
+page   2  panel 2.2         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]
+page   2  panel 2.3         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]
+page   2  panel 2.4         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]
+page   2  panel 2.5         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]
+page   2  panel 2.6         72×  77 mm  ratio 0.92  → make 1:1     [six-grid]

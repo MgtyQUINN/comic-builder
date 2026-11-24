@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+.jpg-til-pdf/
+.stil/
+.ansikter.json
+.faces-bin
+pages-png*/
+*.html
