@@ -4,6 +4,10 @@ Turns a screenplay, short story or idea into a finished comic: pages with panels
 characters on every page, real speech balloons and captions, in colour or black-and-white,
 delivered as a reading PDF, a print file and a flip-book.
 
+![The same comic page in the five print styles: none, four-color, bw-ink, bw-screentone, greyscale](docs/print-styles.jpg)
+*One page, five print styles: `none`, `four-color`, `bw-ink`, `bw-screentone`, `greyscale`.
+Example images © 2026 Südow – not covered by the CC BY license.*
+
 - **You choose the look.** Colour or black-and-white, and the inspiration: classic four-colour
   superhero comics, newspaper adventure strips (Agent X9, Rip Kirby, Modesty Blaise), ligne claire
   (Tintin), Franco-Belgian adventure, manga, noir, humour cartoons, painted or watercolour books,
@@ -74,4 +78,4 @@ people's characters, logos or panels.
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Use it, change it and share it – also commercially – as long as you credit
 "comic-builder by Südow" with a link to this repository. The fonts keep their own
-SIL Open Font License (see `fonts/`). Comics you make with the skill are yours. See `NOTICE` for the credit line.
+SIL Open Font License (see `fonts/`). The example images in `docs/` are © Südow, all rights reserved. Comics you make with the skill are yours. See `NOTICE` for the credit line.
